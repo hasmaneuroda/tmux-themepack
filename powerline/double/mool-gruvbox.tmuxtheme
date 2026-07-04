@@ -7,7 +7,7 @@
 # Requires terminal to be using a powerline compatible font, find one here:
 # https://github.com/powerline/fonts
 #
-# slightly modified by mool 19.04.24
+# slightly modified by mool 04.07.26
 
 # Themepack format options
 set -goq @themepack-status-left-area-left-format "#S"
