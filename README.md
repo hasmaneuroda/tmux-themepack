@@ -6,7 +6,7 @@ A pack of various themes for Tmux for 2.6 or later.
 This repository is a personal fork of [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack).  
 All original themes and structure belong to the original author.
 
-The only change I’ve made so far is the addition of my own theme (`mool.tmuxtheme`), for personal use and convenience.
+The only change I’ve made so far is the addition of my own themes (`mool.tmuxtheme` `mool-gruvbox.tmuxtheme`), for personal use and convenience.
 
 ## Installation
 
